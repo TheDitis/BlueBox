@@ -10,3 +10,17 @@ This is the second iteration design I made in Blender. This View shows a couple 
 #### - Modules are offered for each different control type, and take up varying numbers of slots. See below for a list of module types.
 #### - Artists could configure their controler to fit their needs for any given task, meaning that they would only need one controller with dynamic functionality, rather than several controllers, each for a different task.
 
+## Modules:
+### Classic Fader
+### Touch Fader
+### Classic Knob
+### Rotary Encoder
+### Button
+### Velocity Sensitive Drum Pad
+### Joystick
+### XY Touchpad
+### Joystick
+### Pichbend
+### Modulation Wheel
+### Breath Controller
+### Keyboard Module (Attaches to front, not into a slot)
