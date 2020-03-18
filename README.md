@@ -1,6 +1,8 @@
 # BlueBox
 A fully modular MIDI controller I designed in 2016. I worked on this product idea for about 9 months, building prototypes and working with the Denver SBDC (Small Business Development Center) to figure out how to get the company going. This project has been on put on the shelf for the time being. I hope to continue with it in the future.
 
+![Partially filled controller](BlueBox_2.11(6x6_partial_fill).png)
+
 ![Modules Out View](BlueBox_2.11(6x6).png)
 Here is the 2nd iteration of the 6x6 model.
 
