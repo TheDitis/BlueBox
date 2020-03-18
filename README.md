@@ -2,9 +2,10 @@
 A fully modular MIDI controller I designed in 2016. I worked on this product idea for about 9 months, building prototypes and working with the Denver SBDC (Small Business Development Center) to figure out how to get the company going. This project has been on put on the shelf for the time being. I hope to continue with it in the future.
 
 ![Partially filled controller](BlueBox_2.11(6x6_partial_fill).png)
+Here is the 2nd iteration of the 6x6 model with only a fader, touch-fader, drum pad, xy-touchpad, joystick, classic knob, and rotary encoder installed.
 
 ![Modules Out View](BlueBox_2.11(6x6).png)
-Here is the 2nd iteration of the 6x6 model.
+Here is a different rendering of the same model fully filled.
 
 ![Modules Out View](BlueBox_2.11(6x6_empty).png)
 Here is the same version with no modules installed
