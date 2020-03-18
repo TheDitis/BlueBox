@@ -5,8 +5,8 @@ A fully modular MIDI controller I designed in 2016. I worked on this product ide
 
 
 ## Concept:
-#### - Have a main base unit, offered in several sizes with differing numbers of slots
-#### - The "slots" are just sets of magnets and pogo-pins on the base unit, that make up a grid of squares.
+#### - Offer main base unit in several sizes, with differing numbers of slots
+#### - The "slots" are just sets of magnets and pogo-pins on the base unit, making up a grid of squares.
 #### - Modules are offered for each different control type, and take up varying numbers of slots. See below for a list of module types.
 #### - Artists could configure their controler to fit their needs for any given task, meaning that they would only need one controller with dynamic functionality, rather than several controllers, each for a different task.
 
@@ -24,6 +24,11 @@ A fully modular MIDI controller I designed in 2016. I worked on this product ide
 ### Modulation Wheel
 ### Breath Controller
 ### Keyboard Module (Attaches to front, not into a slot)
+
+## Also Considered
+### Audio input/output modules, turning it into an audio interface
+### Synthesizer modules (sort of like littlebits style synth units)
+### Screen modules (touch or otherwise)
 
 
 ![Modules Out View](BlueBox_Modules_Out1.png)
