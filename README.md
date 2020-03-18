@@ -9,8 +9,8 @@ Here is the same version with no modules installed
 
 
 ## Concept:
-#### - Offer main base unit in several sizes, with differing numbers of slots
-#### - The "slots" are just sets of magnets and pogo-pins on the base unit, making up a grid of squares.
+#### - Offer main base unit in several sizes, with differing numbers of slots (6x6, 9x9, & 12x12)
+#### - The "slots" are just sets of magnets/clips and pogo-pin connections on the base unit, making up a grid.
 #### - Modules are offered for each different control type, and take up varying numbers of slots. See below for a list of module types.
 #### - Artists could configure their controler to fit their needs for any given task, meaning that they would only need one controller with dynamic functionality, rather than several controllers, each for a different task.
 
