@@ -4,6 +4,10 @@ A fully modular MIDI controller I designed in 2016. I worked on this product ide
 ![Modules Out View](BlueBox_2.11(6x6).png)
 Here is the 2nd iteration of the 6x6 model.
 
+![Modules Out View](BlueBox_2.11(6x6_empty).png)
+Here is the same version with no modules installed
+
+
 ## Concept:
 #### - Offer main base unit in several sizes, with differing numbers of slots
 #### - The "slots" are just sets of magnets and pogo-pins on the base unit, making up a grid of squares.
