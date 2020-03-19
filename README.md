@@ -27,14 +27,14 @@ Here is the same version with no modules installed
 ### Joystick
 ### XY Touchpad
 ### Joystick
-### Pichbend
+### Pichbend Wheel (auto-locking modulation wheel)
 ### Modulation Wheel
 ### Breath Controller
 ### Keyboard Module (Attaches to front, not into a slot)
 
 ## Also Considered
 ### Audio input/output modules, turning it into an audio interface
-### Synthesizer modules (sort of like littlebits style synth units)
+### Synthesizer modules (sort of like LittleBits style synth units)
 ### Screen modules (touch or otherwise)
 
 
